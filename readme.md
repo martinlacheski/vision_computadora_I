@@ -11,6 +11,12 @@
 1. Procesamiento de video, gstreamer, tracking, optical flow, background substraction
 1. Vision estereo, calibracion de camaras, estimacion de profundidad
 
+## Integrantes del grupo
+* Diego Vazquez
+* Hernando Scheidl
+* Martin Lacheski
+* Nicolas Lastra
+
 ## Docentes a cargo
 
 Maxim Dorogov
