@@ -16,3 +16,9 @@
 Maxim Dorogov
 * mdorogov@fi.uba.ar
 
+## Integrantes
+
+Martín Lacheski
+Diego Vazquez
+Nicolás Lastra
+Hernando Scheidl
